@@ -13,7 +13,7 @@ Flexbox, БЭМ, Grid, Адаптивная верстка
 Возможность добавление никнеймов при регистрации пользователя
 
 ## Ссылка на проект
-https://yuli-ageeva.github.io/mesto-react-auth/
+https://yuli-ageeva.github.io/react-mesto-auth/
 
 ## Запуск проекта 
 Вы можете запустить проект:
